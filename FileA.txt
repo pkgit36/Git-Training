@@ -1,2 +1,5 @@
 This is FileA - Merge - Squash
+<<<<<<< HEAD
 
+=======
+>>>>>>> feature
