@@ -1,1 +1,2 @@
-This is FileA - This is Version 2 - Master Branch
+This is FileA - Merge - Squash
+
