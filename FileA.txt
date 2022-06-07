@@ -1,1 +1,1 @@
-This is FileA - Merge - Squash - Try
+This is FileA - Pull Request - Branch
