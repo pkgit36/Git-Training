@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-This is FileB - Version 2 - Master Branch - Test
-=======
-This is FileB - Merge
->>>>>>> feature
+This is FileB - Pull Request
+
